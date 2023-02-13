@@ -1,10 +1,12 @@
 # TAMPOPO: loving recipes
 A website for showcasing my favorite recipes in Japanese culture (assignment for 'The Odin Project')
 
-Recipe credits:
+## Recipe credits:
 
-Katsu Curry --> https://japan.recipetineats.com/katsu-curry-japanese-curry-rice-with-chicken-cutlet/
+Katsu Curry: https://japan.recipetineats.com/katsu-curry-japanese-curry-rice-with-chicken-cutlet/
 
-Miso Soup --> https://minimalistbaker.com/15-minute-miso-soup-with-greens-and-tofu/
+Miso Soup: https://minimalistbaker.com/15-minute-miso-soup-with-greens-and-tofu/
 
-Ramen --> https://pinchofyum.com/quick-homemade-ramen
+Ramen: https://pinchofyum.com/quick-homemade-ramen
+
+## Check the website [here](https://clarayuki.github.io/recipes-website/)
